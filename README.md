@@ -102,6 +102,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Youtubers :video_camera:
 
+- [Andrea Borman :us:](https://www.youtube.com/@AndreaBorman) **(Linux)** Canal para aprender e explorar sobre Linux e seuas distribuições.
+
 - [Adriana Saty :brazil:](https://www.youtube.com/c/AdrianaSaty) **(Programação)** Conteúdos básicos direcionados a iniciantes de programação como HTML e CSS.
 
 - [Ana Beatriz Neri :brazil:](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA "Canal do Youtube da Ana Beatriz Neri") **(Programação)** Curso de Spring Webflux, MongoDB e AWS.
@@ -134,6 +136,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [DB4Beginners :brazil:](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") **(Banco de dados)** Canal sobre banco de dados relacionais e não relacionais.
 
+- [Deborah Kurata :us:](https://www.youtube.com/@deborah_kurata) **(Angular, C#)** Canal focado em explorar o Framework Angular e um pouco de C#.
+
 - [De Front com Aline :brazil:](https://www.youtube.com/c/DeFrontcomAline "De Front com Aline") **(Carreira, Frontend)** Vídeos de experiências e dicas da Aline sobre a carreira de frontend.
 
 - [Fernanda Kipper | Dev :brazil:](https://www.youtube.com/@kipperdev "Fernanda Kipper") **(Programação e carreira)** Vídeos sobre programação em varias linguagens, videos sobre conceitos de técnologias e videos sobre a carreira e vivência da Fernanda
@@ -145,6 +149,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured) **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
 
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
+
+- [Giuliana Bezerra 🇧🇷](https://www.youtube.com/@giulianabezerra) **(Programação, Java, Spring)** Canal com vídeos sobre Java, Spring Boot, Arquitetura de Software e outras dicas.
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
 
@@ -185,6 +191,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
 
 - [Trans de Programa :brazil:](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") **(Firebase, Diversidade)** Canal sobre Firebase e diversidade.
+
+- [Veronica Explains :us:](https://www.youtube.com/@VeronicaExplains) **(Linux e Tecnologia)** Veronica ensina principalmente sobre Linux mas também tem conteúdos sobre hardwares e tecnologias em geral.
 
 - [Vida Programação :brazil:](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") **(Mobile)** Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas.
 
